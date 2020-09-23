@@ -1,9 +1,10 @@
 require 'pry'
 
 def nyc_pigeon_organizer(data)
+pigeon_list = {} 
 #pigeon_1 = {:name => "Theo"} 
  #pigeon_1 = "Theo"
-#pigeon_list = {pigeon_1} 
+
 binding.pry
 end 
  
