@@ -1,10 +1,9 @@
 require 'pry'
 
 def nyc_pigeon_organizer(data)
-pigeon_list = {} 
-
-data.each_with_object({}) do |(key,value), final_array|
-  
+#pigeon_list = {} 
+    data.each_with_object({}) do |(key,value), final_array|
+        inner_key  
 end
 #binding.pry
 end 
