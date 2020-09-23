@@ -2,6 +2,7 @@ require 'pry'
 
 def nyc_pigeon_organizer(data)
 pigeon_list = {} 
+#while data[][]
 #pigeon_1 = {:name => "Theo"} 
  #pigeon_1 = "Theo"
 
