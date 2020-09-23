@@ -7,7 +7,7 @@ data.each_with_object({}) do |(k,v), a|
 #pigeon_1 = {:name => "Theo"} 
  #pigeon_1 = "Theo"
 end
-binding.pry
+#binding.pry
 end 
  
  #pigeon_1 = {:name => "Theo"} 
