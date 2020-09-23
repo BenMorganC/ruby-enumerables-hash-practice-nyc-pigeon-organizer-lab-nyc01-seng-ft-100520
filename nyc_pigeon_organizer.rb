@@ -4,9 +4,11 @@ def nyc_pigeon_organizer(data)
 #pigeon_list = {} 
     data.each_with_object({}) do |(key,value), final_array|
         value.each do |inner_key, names|  
-        binding.pry
+          binding.pry
         end
-#binding.pry
+        final_array
+    end    
+    binding.pry
 end 
  
  #pigeon_1 = {:name => "Theo"} 
